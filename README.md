@@ -1,0 +1,4 @@
+openbox
+=======
+
+my manjaro #! config
